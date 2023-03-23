@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
+body > ul > li {
+  margin-bottom: 30px;
+}
